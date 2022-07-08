@@ -23,13 +23,3 @@ Your spotify profile's top artists and tracks with charts and playlist creator.
    ```bash
    npm start
    ```
-
-## Built with
-
-- [Express](https://expressjs.com/)
-- [Netlify Lambda](https://github.com/netlify/netlify-lambda)
-- [Serverless Http](https://github.com/dougmoscrop/serverless-http)
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
